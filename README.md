@@ -81,10 +81,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-> 💡 *To enable detailed daily/monthly coding stats, set up [WakaTime](https://wakatime.com) — see instructions below.*
-
----
-
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/kingfarn/kingfarn/output/github-snake-dark.svg)
