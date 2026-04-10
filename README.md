@@ -74,7 +74,6 @@
 
 </div>
 
----
 
 <!-- ## 📈 Daily & Monthly Activity -->
 
