@@ -22,9 +22,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kingfarn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kingfarn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kingfarn&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kingfarn&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kingfarn&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kingfarn&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10)
 
 </div>
 
