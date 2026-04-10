@@ -76,7 +76,7 @@
 
 ---
 
-## 📈 Daily & Monthly Activity
+<!-- ## 📈 Daily & Monthly Activity -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
