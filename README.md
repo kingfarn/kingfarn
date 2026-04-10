@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there! I'm KingFarn 👑
+# Hey there! I'm Razwan Mohammed (KingFarn) 👑
 
 [![Profile Views](https://komarev.com/ghpvc/?username=kingfarn&style=for-the-badge&color=blueviolet)](https://github.com/kingfarn)
 [![GitHub followers](https://img.shields.io/github/followers/kingfarn?style=for-the-badge&color=blueviolet)](https://github.com/kingfarn?tab=followers)
