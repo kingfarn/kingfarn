@@ -83,7 +83,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/kingfarn/kingfarn/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/kingfarn/kingfarn/output/ocean.gif)
 
 </div>
 
