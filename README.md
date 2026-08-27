@@ -30,12 +30,6 @@
 
 ---
 
-## 🏆 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kingfarn&theme=tokyo-night&hide_border=true&area=true&radius=12)
-
----
-
 ## 💻 Most Used Languages
 
 *Auto-calculated from your **public** repos (bytes of code), not your job title — mix may include older or small projects.*
