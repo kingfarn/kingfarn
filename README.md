@@ -22,8 +22,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kingfarn&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=kingfarn&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
