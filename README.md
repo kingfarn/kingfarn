@@ -30,18 +30,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-*Auto-calculated from your **public** repos (bytes of code), not your job title — mix may include older or small projects.*
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kingfarn&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 **Core (what I use day to day)**
